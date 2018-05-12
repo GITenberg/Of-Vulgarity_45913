@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/359
     wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
 description: Some extracts from the writings of John Ruskin.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45913#Of-Vulgarity
 gutenberg_issued: '2014-06-07'
 gutenberg_type: Text
 identifiers:

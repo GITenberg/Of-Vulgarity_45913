@@ -1,0 +1,31 @@
+_repo: Of-Vulgarity_45913
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45913-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Ruskin, John
+    alias: Ruskin, J. (John)
+    birthdate: 1819
+    deathdate: 1900
+    gutenberg_agent_id: '359'
+    url: http://www.gutenberg.org/2009/agents/359
+    wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
+description: Some extracts from the writings of John Ruskin.
+gutenberg_issued: '2014-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45913'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aesthetics'
+- !lcsh 'Liberty'
+- !lcsh 'Social ethics'
+- !lcsh 'Criticism'
+- !lcc 'BH'
+title: Of Vulgarity
+url: http://www.gutenberg.org/ebooks/45913
